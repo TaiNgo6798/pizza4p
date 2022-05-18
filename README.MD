@@ -8,6 +8,11 @@
 ## UI Available Scripts
 [localhost:3000](https://localhost:3000)
 
+## Node version
+```bash
+    12.22.11
+```
+
 ### Before you run the UI
 ```bash
     cd pizza4p-ui
